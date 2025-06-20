@@ -16,7 +16,7 @@ log-archive <log-directory>
 - The tool should log the date and time of the archive to a file.
 
 ```bash
-log-archive <log-directory>
+logs_archive_20240816_100648.tar.gz
 ```
 
 https://roadmap.sh/projects/log-archive-tool
